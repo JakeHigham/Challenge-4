@@ -33,8 +33,8 @@ N/A
 N/A
 
 ## Credits
-https://stackoverflow.com/questions/37252041/storing-quiz-questions-in-array-of-objects
-https://stackoverflow.com/questions/43796179/make-a-simple-javascript-timer
+https://stackoverflow.com/questions/37252041/storing-quiz-questions-in-array-of-objects - Lines 1 to 52
+https://stackoverflow.com/questions/43796179/make-a-simple-javascript-timer 
 
 ## Screenshots
 
